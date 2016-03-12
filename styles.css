@@ -90,6 +90,9 @@ border-radius : 6px;
 transition : all 0.5s;
 }
 
+.mamuta li:nth-child(odd) {
+background : #0399ff;
+
 .mamuta li {
   padding: 0 0 1.5em;
 }
