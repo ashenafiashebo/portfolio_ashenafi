@@ -204,3 +204,8 @@ background-image : url(images/phone.png);
 .contact-info li.mail a {
 background-image : url(images/mail.png);
 }
+
+.contact-info li.twitter a {
+background-image : url(images/twitter.png);
+
+
