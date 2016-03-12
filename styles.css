@@ -103,8 +103,17 @@ color : #999;
 
 .card h2 {
 content: '';
-background-color: blue;
-color : lightgray;
+  position: absolute;
+  border-color: #009933;
+  border-style: solid;
+  border-width: 0 0.3em 0.25em 0;
+  height: 1em;
+  top: 1.3em;
+  left: 0.6em;
+  margin-top: -1em;
+  transform: rotate(45deg);
+  width: 0.5em;
+  color : lightgray;
 
 }
 
