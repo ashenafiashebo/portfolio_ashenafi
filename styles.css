@@ -97,6 +97,10 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+  list-style-type: none;
+}
+.card li{
+	
 }
 .card:hover {
   border-color: #ff99ff;
