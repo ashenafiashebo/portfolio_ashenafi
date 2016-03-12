@@ -89,6 +89,10 @@ border-bottom : 4px solid #ccc;
 border-radius : 6px;
 transition : all 0.5s;
 }
+
+.card h5 {
+  text-style: underline;
+}
 .card h4 {
 color : lightblue;
 }
