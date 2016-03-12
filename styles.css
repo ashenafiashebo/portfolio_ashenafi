@@ -101,7 +101,7 @@ color : #999;
 }
 
 
-.card h2 ::before {
+h2.card::before {
   content: '';
  
   border-color: #009933;
