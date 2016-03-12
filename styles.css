@@ -104,6 +104,10 @@ header .profile-image:hover {
 	
 }
 
+.card h6{
+	color: tomato;
+}
+
 .card:hover {
   border-color: #ff99ff;
 }
