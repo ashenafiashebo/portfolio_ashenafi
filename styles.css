@@ -104,7 +104,7 @@ transition : all 0.5s;
 .card h4 {
 color : lightblue;
 }
-h3.card::before {
+.box::before {
   content: "";
   display: inline-block;
   width: 30px;
