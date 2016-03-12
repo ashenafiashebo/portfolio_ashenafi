@@ -99,6 +99,10 @@ header .profile-image:hover {
   transition: all .5s;
   
 }
+
+.card h4{
+      color: lightblue;	
+}
 .card h3{
 	color: #999;
 	
