@@ -103,9 +103,7 @@ color : #999;
 color : lightgray;
 }
 
-.card p{
-  text-align: center;
-}
+
 .card:hover {
 border-color : #ff99ff;
 }
