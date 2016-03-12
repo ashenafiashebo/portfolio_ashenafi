@@ -102,6 +102,10 @@ color : #999;
 .card h2 {
 color : lightgray;
 }
+
+.card p{
+  text-align: center;
+}
 .card:hover {
 border-color : #ff99ff;
 }
