@@ -105,7 +105,7 @@ header .profile-image:hover {
 }
 
 .card h6{
-	color: tomato;
+	font: bold;
 }
 
 .card:hover {
