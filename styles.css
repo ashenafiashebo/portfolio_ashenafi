@@ -90,7 +90,7 @@ border-radius : 6px;
 transition : all 0.5s;
 }
 
-.card li {
+.card h2, ul, li {
   padding: 0 0 0.5em;
 }
 
