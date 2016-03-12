@@ -90,6 +90,10 @@ border-radius : 6px;
 transition : all 0.5s;
 }
 
+.card li {
+  padding: 0 0 1.5em;
+}
+
 .card h5 {
   text-decoration : underline;
 }
