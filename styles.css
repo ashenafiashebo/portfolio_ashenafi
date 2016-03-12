@@ -91,7 +91,7 @@ transition : all 0.5s;
 }
 
 .card h5 {
-  text-style: underline;
+  text-decoration : underline;
 }
 .card h4 {
 color : lightblue;
