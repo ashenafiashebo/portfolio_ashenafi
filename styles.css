@@ -99,8 +99,15 @@ color : lightblue;
 .card h3 {
 color : #999;
 }
+.card h2: ::before{
+   
+  content: "";
+  color: blue;
+}
+
 .card h2 {
 color : lightgray;
+
 }
 
 
