@@ -101,14 +101,8 @@ color : #999;
 }
 
 
-h2.card::before {
-  content: '';
- 
-  border-color: #009933;
- 
-
+.card h2{
   color : lightgray;
-
 }
 
 
