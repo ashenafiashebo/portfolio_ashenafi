@@ -104,8 +104,8 @@ header .profile-image:hover {
 	
 }
 
-.card h6{
-	font: bold;
+.card h2{
+	color:lightgray;
 }
 
 .card:hover {
