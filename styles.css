@@ -90,7 +90,9 @@ border-radius : 6px;
 transition : all 0.5s;
 }
 
-
+.contact-info li {
+  list-style-type : none;
+}
 
 .mamuta li {
   padding: 0 0 1.5em;
