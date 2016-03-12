@@ -100,8 +100,7 @@ color : lightblue;
 color : #999;
 }
 .card h2 ::before{
-  
-}
+
   content: "";
   color: blue;
 }
