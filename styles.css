@@ -16,6 +16,10 @@ color : #999;
 a:hover {
 color : #6633ff;
 }
+p{
+ color: white;
+ background-color: lightblue;
+}
 .main-nav {
 width : 100%;
 background : black;
