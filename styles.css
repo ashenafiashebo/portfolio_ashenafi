@@ -84,9 +84,9 @@ list-style-type : none;
 .free {
   content : "";
   display : inline-block;
-  width : 10px;
-  height : 10px;
-  background : gray;
+  width : 30px;
+  height : 30px;
+  background : firebricks;
   border-radius : 50%;
   margin : 15px 15px 0 15px;
   list-style-type : none;
