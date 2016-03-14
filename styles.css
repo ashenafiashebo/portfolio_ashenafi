@@ -105,6 +105,11 @@ padding : 0 0 1.5em;
 .card h5 {
 text-decoration : underline;
 }
+.card li{
+  list-style-type : none;
+}
+  
+}
 .card h4 {
 color : lightblue;
 }
