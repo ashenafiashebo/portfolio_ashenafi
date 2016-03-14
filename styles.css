@@ -82,13 +82,9 @@ list-style-type : none;
 }
 
 .free {
-  content : "";
-  display : inline-block;
-  width : 20px;
-  height : 20px;
-  background : seagreen;
-  border-radius : 50%;
-  margin : 15px 15px 0 15px;
+ list-style-type : none;
+ color: seagreen;
+ padding: 8px 0 ;
 }
 
 
