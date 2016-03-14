@@ -77,11 +77,6 @@ background-color : #222;
 color : yellow;
 }
 
-.free{
-  list-style-type : none;
-  font: bold;
-  color: firebricks;
-}
 
 .card {
 margin : 30px;
@@ -96,6 +91,13 @@ transition : all 0.5s;
 .contact-info li {
 list-style-type : none;
 }
+
+.free{
+  list-style-type : none;
+  font: bold;
+  color: seagreen;
+}
+
 .mamuta li {
 padding : 0 0 1.5em;
 }
