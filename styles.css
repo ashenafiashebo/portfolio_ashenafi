@@ -16,7 +16,10 @@ color : #999;
 a:hover {
 color : #6633ff;
 }
-
+h3{
+ color: white;
+ background-color: lightgray;
+}
 p{
  color: white;
  background-color: lightblue;
