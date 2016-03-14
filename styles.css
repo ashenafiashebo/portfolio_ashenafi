@@ -92,7 +92,7 @@ transition : all 0.5s;
 list-style-type : none;
 }
 
-.free{
+.free {
   list-style-type : none;
   font: bold;
   color: seagreen;
