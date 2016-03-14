@@ -64,9 +64,6 @@ border-radius : 50%;
 border : white solid 3px;
 transition : all 0.5s;
 }
-header .profile-image:hover {
-transform : scale(1.2),rotate(5deg);
-}
 .tag {
 background-color : #efefef;
 color : black;
@@ -89,42 +86,33 @@ border-bottom : 4px solid #ccc;
 border-radius : 6px;
 transition : all 0.5s;
 }
-
 .contact-info li {
-  list-style-type : none;
+list-style-type : none;
 }
-
 .mamuta li {
-  padding: 0 0 1.5em;
+padding : 0 0 1.5em;
 }
-
 .card h5 {
-  text-decoration : underline;
+text-decoration : underline;
 }
 .card h4 {
 color : lightblue;
 }
 .box::before {
-  content: "";
-  display: inline-block;
-  width: 20px;
-  height: 20px;
-  background: royalblue;
-  border-radius: 50%;
-  margin: 15px 15px 0 15px;
+content : "";
+display : inline-block;
+width : 20px;
+height : 20px;
+background : royalblue;
+border-radius : 50%;
+margin : 15px 15px 0 15px;
 }
-  
-
 .card h3 {
 color : lightgray;
 }
-
-
-.card h2{
-  color : lightgray;
+.card h2 {
+color : lightgray;
 }
-
-
 .card:hover {
 border-color : #ff99ff;
 }
@@ -231,8 +219,3 @@ background-image : url(images/phone.png);
 .contact-info li.mail a {
 background-image : url(images/mail.png);
 }
-
-.contact-info li.twitter a {
-background-image : url(images/twitter.png);
-
-
