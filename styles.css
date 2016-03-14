@@ -105,10 +105,19 @@ padding : 0 0 1.5em;
 .card h5 {
 text-decoration : underline;
 }
-.card li{
+.card::beforeli{
+  content : "";
+  display : inline-block;
+  width : 10px;
+  height : 10px;
+  background : gray;
+  border-radius : 50%;
+  margin : 15px 15px 0 15px;
   list-style-type : none;
-   padding: 5px 0 ;
+  padding: 5px 0 ;
 }
+
+
   
 }
 .card h4 {
