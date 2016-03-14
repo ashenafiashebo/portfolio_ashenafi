@@ -88,18 +88,6 @@ list-style-type : none;
   padding: 5px 0 ;
 }
 
- .nati {
-  
-  content : "";
-  display : inline-block;
-  width : 10px;
-  height : 10px;
-  background : gray;
-  border-radius : 50%;
-  margin : 15px 15px 0 15px;
-  
-}
-  
 }
 .card {
 margin : 30px;
