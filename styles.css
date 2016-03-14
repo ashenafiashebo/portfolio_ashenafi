@@ -87,7 +87,16 @@ list-style-type : none;
   color: seagreen;
   padding: 5px 0 ;
 }
-
+.card {
+margin : 30px;
+padding : 20px 40px 40px;
+max-width : 500px;
+text-align : left;
+background : #fff;
+border-bottom : 4px solid #ccc;
+border-radius : 6px;
+transition : all 0.5s;
+}
 .mamuta li {
 padding : 0 0 1.5em;
 }
