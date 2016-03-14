@@ -77,17 +77,6 @@ background-color : #222;
 color : yellow;
 }
 
-
-.card {
-margin : 30px;
-padding : 20px 40px 40px;
-max-width : 500px;
-text-align : left;
-background : #fff;
-border-bottom : 4px solid #ccc;
-border-radius : 6px;
-transition : all 0.5s;
-}
 .contact-info li {
 list-style-type : none;
 }
