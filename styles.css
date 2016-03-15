@@ -20,7 +20,10 @@ h3{
  color: seagreen;
  background-color: lightgray;
 }
-
+.role {
+ background-color: gray;
+ color: lightgray;
+}
 footer {
  color: white;
  background-color: lightblue;
