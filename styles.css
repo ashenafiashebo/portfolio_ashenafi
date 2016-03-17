@@ -23,11 +23,11 @@ h3{
 .role {
  background-color: gray;
  color: lightgray;
- border: 3px solid red;
 }
 footer {
  color: white;
  background-color: lightblue;
+ border-top: lightgray;
 }
 .main-nav {
 width : 100%;
